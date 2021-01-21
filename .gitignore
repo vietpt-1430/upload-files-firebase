@@ -1,0 +1,7 @@
+#remove IDE temp
+.idea
+node_modules
+*.log
+.env
+/dist/
+vuejs/node_modules
